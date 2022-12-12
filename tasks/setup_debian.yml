@@ -5,3 +5,7 @@
     state: "present"
   with_items:
     - procps
+    - openjdk-17-jdk
+    - openjdk-17-jre
+    - unzip
+    - zip
